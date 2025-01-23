@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app and involves an issue with the Android Gradle Plugin (AGP) version.  The error message might mention a version conflict or incompatibility.  For example, you might see something like `Could not find method android() for arguments` or errors related to specific AGP features.
